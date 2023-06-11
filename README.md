@@ -3,8 +3,10 @@
          height="45"
          width="45" /> I'm Zhengfa Tang</h1>
 
-# 😁 About Me :
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=lightgray)
+## 😁 About Me :
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=lightgray) -->
+<h2 align="center">"Stay hungry, stay foolish."</h2>  
+
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate on mobile software development.
 - 💬 Ask me about any tech-related stuff, and cooking, hiking, traveling, music.
