@@ -3,9 +3,7 @@
          height="45"
          width="45" /> I'm Zhengfa Tang</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
-
-# 💫 About Me :
+# 😁 About Me :
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate on mobile software development.
 - 💬 Ask me about any tech-related stuff, and cooking, hiking, traveling, music.
@@ -32,11 +30,12 @@
 </div>
 
 ### ⭐️ Random Dev Quote
+<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ffffary&icon=0&color=1)](https://visitcount.itsvg.in)
-
+</div>
 
 
 
