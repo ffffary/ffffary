@@ -4,13 +4,11 @@
          width="45" /> I'm Zhengfa Tang</h1>
 
 # 😁 About Me :
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=lightgray)
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate on mobile software development.
 - 💬 Ask me about any tech-related stuff, and cooking, hiking, traveling, music.
 - ⚡ Fun fact: Pobody is nerfect.
-
-## ⭐️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhengfa) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FaryTang) 
@@ -20,7 +18,7 @@
 
 ## ✍️ Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ffffary&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ffffary&theme=dark"/>
 </p>
 
 ## 📊 GitHub Stats:
