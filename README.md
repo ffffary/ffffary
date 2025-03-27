@@ -7,8 +7,8 @@
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=lightgray) -->
 <h2 align="center">"Stay hungry, stay foolish."</h2>  
 
-- 🌱 I’m currently learning React Native.
-- 👯 I’m looking to collaborate on mobile software development.
+- 🌱 I’m tinkering with AI tools.
+- 👯 I’m looking to collaborate on software development.
 - 💬 Ask me about any tech-related stuff, and cooking, hiking, traveling, music.
 - ⚡ Fun fact: Pobody is nerfect.
 
